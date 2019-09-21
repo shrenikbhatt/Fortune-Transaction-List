@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://@localhost:27017/FortuneBanking",
+  "jwtSecret": "f0rtun3Bank1ng$3cr3t"
+}
